@@ -1,6 +1,6 @@
 __Pull Request Description__
 
-<Add description>
+<fix to Fix Missing "t" Typo #4>
 
 ---
 __Licensing Certification__
